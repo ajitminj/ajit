@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ajit
+- 👋 Hi, I’m Ajit
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning machine learning with python
 - 💞
