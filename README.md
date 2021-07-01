@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajit
 - 👀 I’m interested in predictive modeling
-- 🌱 I’m currently learning machine learning with python
+- 🌱 Currently learning machine learning with python
 - 💞 
 
 <!---
