@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajit
-- 👀 I’m interested in predictive modeling
-- 🌱 Currently learning machine learning with python
+- 👀 I’m interested in predictive modeling, recommender systems, timeseries and neural networks
+- 🌱 On a never ending journey of machine learning with python
 
 
 <!---
