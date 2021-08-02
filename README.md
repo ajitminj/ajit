@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajit Albert Minj
-- 👀 Interested in predictive modeling, recommender systems, timeseries and neural networks
+- 👀 Interested in predictive modeling, recommender systems, timeseries and neural networks       
 - 📖 On a never ending journey of machine learning with python
 
 
