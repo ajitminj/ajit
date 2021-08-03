@@ -16,7 +16,7 @@
 
 ### GitHub Stats
 
-![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&count_private=true&theme=prussian &show_icons=true)
+![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&count_private=true&theme=prussian&show_icons=true)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitminj&layout=compact&langs_count=5&theme=prussian)]()
 
 
