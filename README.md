@@ -3,7 +3,7 @@
 - 👀 Interested in predictive modeling, recommender systems, NLP, timeseries, data visualization :atom::electron: and sports analytics mainly :soccer:       
 - 📖 On a never ending journey of machine learning with python
 - Feel free to check out the starred repos :star: for some of the best repos on data analysis with pandas :panda_face: and machine learning with python. I'll keep updating it.
-- Fun fact: :point_right: Pandas stands for “Python Data Analysis Library ”. According to the Wikipedia page on Pandas, “the name is derived from the term “panel data”, an econometrics term for multidimensional structured data sets.” Super cute name to a super-useful Python library! :partying_face:
+- Fun fact: :point_right: Pandas stands for “Python Data Analysis Library ”. According to the Wikipedia page on Pandas, “the name is derived from the term “panel data”, an econometrics term for multidimensional structured data sets.” Super cute name for a super-useful Python library! :partying_face:
 
 <h5 align="center"><i>(I love twitter analytics/datascience/machine learning community, i have learnt the most from twitter community :smile: lets connect on twitter :handshake:)</i></h5>
 
