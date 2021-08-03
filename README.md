@@ -8,6 +8,10 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ajitminj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ajitminj)](https://twitter.com/Ajitminj)
 
+<h5 align="center"><i>(Also if you like, i would be honored to be a part of your LinkedIn network :handshake: lets connect on LinkedIn as well :handshake:)</i></h5>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ajit_Albert_Minj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/ajitalbertminj)](https://www.linkedin.com/ajitalbertminj)
+
 ### GitHub Stats
 
 ![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&theme=tokyonight&show_icons=true)
