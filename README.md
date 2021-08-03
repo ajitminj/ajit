@@ -16,8 +16,8 @@
 
 ### GitHub Stats
 
-![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&count_private=true&theme=tokyonight&show_icons=true)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitminj&layout=compact&langs_count=5&theme=tokyonight)]()
+![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&count_private=true&theme=cobalt&show_icons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitminj&layout=compact&langs_count=5&theme=cobalt)]()
 
 
 ## Tools, Technologies and Languages:
