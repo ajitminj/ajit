@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Ajit Albert Minj
-- 👀 Interested in predictive modeling, recommender systems, timeseries and neural networks       
+<h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, we are the team of Let The Data Confess Pvt. Ltd.</h1>
+
+- 👀 Interested in predictive modeling, recommender systems, timeseries and sports analytics       
 - 📖 On a never ending journey of machine learning with python
 
 
