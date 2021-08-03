@@ -6,7 +6,7 @@
 
 <h5 align="center"><i>(I love twitter analytics/datascience/machine learning community, i have learnt the most from twitter community :smile: lets connect on twitter :handshake:)</i></h5>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ajitminj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ajitminj)](https://twitter.com/Ajitminj)
+[![Twitter Badge](https://img.shields.io/badge/-@Ajitminj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/Ajitminj)]          (https://twitter.com/Ajitminj)
 
 ### GitHub Stats
 
