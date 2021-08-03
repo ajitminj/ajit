@@ -4,7 +4,7 @@
 - 📖 On a never ending journey of machine learning with python
 - Feel free to check out the starred repos :star: for some of the best repos on data analysis with pandas :panda_face: and machine learning with python. I'll keep updating it. 
 
-<h5 align="center"><i>(I love twitter analytics/datascience/machine learning community,i have learnt the most from twitter community :smile: lets connect on twitter :handshake:)</i></h5>
+<h5 align="center"><i>(I love twitter analytics/datascience/machine learning community, i have learnt the most from twitter community :smile: lets connect on twitter :handshake:)</i></h5>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ajitminj-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ajitminj)](https://twitter.com/Ajitminj)
 
