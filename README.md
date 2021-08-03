@@ -17,6 +17,8 @@
 ### GitHub Stats
 
 ![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&theme=tokyonight&show_icons=true)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+
 
 ## Tools, Technologies and Languages:
 ### Programming
