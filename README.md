@@ -33,7 +33,7 @@
 ### Environments
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://camo.githubusercontent.com/a81bbd72e93e900ad6740946c6481986acbb86a3c7fb3cf5d0e98b75b78db50b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a376f756b61704942496e736f7670486b514233515a672e6a706567></code>
+<code><img height="30" src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg" alt="Google Colab" height="40" style="vertical-align:top; margin:4px"></code>
 
 
 
