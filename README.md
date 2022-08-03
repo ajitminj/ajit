@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I am Ajit, nice to meet you :smiley: </h1>
 
+
+<p align="right"><img src=https://komarev.com/ghpvc/?username=Tanu-N-Prabhu /> </p>
+
+
 - 👀 Interested in predictive modeling, recommender systems, NLP, timeseries, data visualization :atom::electron: and sports analytics mainly :soccer:       
 - :technologist: On a never ending journey of machine learning with python
 - Feel free to check out the starred repos :star: for some of the best repos on data analysis with pandas :panda_face: and machine learning with python. I'll keep updating it.
@@ -12,9 +16,6 @@
 <h5 align="center"><i>(Also if you like, would be honored to be a part of your LinkedIn network :handshake: lets connect on LinkedIn as well :+1:)</i></h5>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ajit_Albert_Minj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajitalbertminj)](https://www.linkedin.com/in/ajitalbertminj)
-
-
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=ajitminj"/>
 
 
 ### GitHub Stats
