@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I am Ajit, nice to meet you :smiley: </h1>
-<h1 align="center"><img src="https://komarev.com/ghpvc/?username=ajitminj"/>
-
 - 👀 Interested in predictive modeling, recommender systems, NLP, timeseries, data visualization :atom::electron: and sports analytics mainly :soccer:       
 - :technologist: On a never ending journey of machine learning with python
 - Feel free to check out the starred repos :star: for some of the best repos on data analysis with pandas :panda_face: and machine learning with python. I'll keep updating it.
