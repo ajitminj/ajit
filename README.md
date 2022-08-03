@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img height=30 width=30 alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I am Ajit, nice to meet you :smiley: </h1>
-                                                                                                        <img src="https://komarev.com/ghpvc/?username=ajitminj"/>
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=ajitminj"/>
 
 - 👀 Interested in predictive modeling, recommender systems, NLP, timeseries, data visualization :atom::electron: and sports analytics mainly :soccer:       
 - :technologist: On a never ending journey of machine learning with python
