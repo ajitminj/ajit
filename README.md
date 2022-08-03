@@ -13,6 +13,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ajit_Albert_Minj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajitalbertminj)](https://www.linkedin.com/in/ajitalbertminj)
 
 
+<h1 align="center"><img src="https://komarev.com/ghpvc/?username=ajitminj"/>
+
+
 ### GitHub Stats
 
 ![Ajit's github stats](https://github-readme-stats.vercel.app/api?username=ajitminj&count_private=true&theme=prussian&show_icons=true)
