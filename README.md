@@ -38,7 +38,7 @@
 <code><img height="30" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg" alt="Google Colab" height="40" style="vertical-align:top; margin:4px"></code>
-<code><img height="30" src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" height="40" style="vertical-align:top; margin:4px"></code>
+<code><img height="30" src="[https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FJupyter_logo.svg%2F1200px-Jupyter_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&tbnid=_bXdErk3QufadM&vet=12ahUKEwiDyvSyhof6AhUBgWMGHXf7C2AQMygcegUIARD9AQ..i&docid=pGh5LKRAZ1gfXM&w=1200&h=1391&q=jupyter%20notebook%20markdown%20logo&ved=2ahUKEwiDyvSyhof6AhUBgWMGHXf7C2AQMygcegUIARD9AQ)" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px"></code>
 
 
 
